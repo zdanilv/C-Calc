@@ -1,0 +1,6 @@
+﻿  ConsoleCalc.cpp
+C:\Users\oue12\source\repos\zdanilv\C-Calc\ConsoleCalc\ConsoleCalc\ConsoleCalc.cpp(24,10): warning C4476: "printf": неизвестный символ поля типа "\"" в описателе формата
+C:\Users\oue12\source\repos\zdanilv\C-Calc\ConsoleCalc\ConsoleCalc\ConsoleCalc.cpp(27,6): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\oue12\source\repos\zdanilv\C-Calc\ConsoleCalc\ConsoleCalc\ConsoleCalc.cpp(27,33): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\oue12\source\repos\zdanilv\C-Calc\ConsoleCalc\ConsoleCalc\ConsoleCalc.cpp(37,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleCalc.vcxproj -> C:\Users\oue12\Source\Repos\zdanilv\C-Calc\ConsoleCalc\Debug\ConsoleCalc.exe
